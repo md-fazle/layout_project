@@ -1,0 +1,35 @@
+.header{
+    text-align: center;
+    background-color: burlywood;
+    min-height:100px;
+    border:2px solid black ;
+}
+.body{
+    overflow: hidden;
+
+}
+.bold{
+    background-color: antiquewhite;
+    min-height:500px;
+    border: 2px solid black;
+    float: left;
+    width:35%;
+    text-align: center;
+}
+.cordent{
+       background-color: aqua;
+       min-height:500px;
+       border: 2px solid black;
+       float: right;
+       width:64.3%;
+       text-align: center;
+    
+
+}
+.footer{
+    background-color: coral;
+     min-height: 100px;
+     border:2px solid black;
+     text-align: center;
+
+}
