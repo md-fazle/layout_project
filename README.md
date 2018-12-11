@@ -1,2 +1,2 @@
 # layout_project
-layout and block and inline elements
+layout and block and inlined elements
